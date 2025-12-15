@@ -3,7 +3,6 @@
  * All credits reserved for Pedroxx https://github.com/AlmeidaCodeDev
  * do not withdraw the credits
  * License: MIT
- * PCA AntCheat for SA-MP
  * Version: 1.0.0
  * Date Created: 13/12/2025
  * Last Update Date: 13/12/2025
