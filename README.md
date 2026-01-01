@@ -21,5 +21,18 @@
     PCA_MathRandom(10, 20) Retorna um numero aleatorio entre 10 e 20
 ```
 
-## Ultima atualizaçao 14/12/2025
+### PCAString.inc, Funçoes sao:
+```
+    PCA_IsStringEmpty(const string[]); Retorna verdadeiro se a string for nula ou vazia
+    PCA_IsStringNumeric(const string[]); Retorna verdadeiro se a string for numerica
+    PCA_IsStringAlpha(const string[]); Retorna verdadeiro se a string for alfabetica
+    PCA_IsStringHasNumber(const string[]); Retorna verdadeiro se a string tiver numeros
+    PCA_IsStringAlphaNumeric(const string[]); Retorna verdadeiro se a string for alphanumerica
+    PCA_StringToUpper(string[]); Converte os caracteres da string em Maiusculo(no-local)
+    PCA_StringToLower(string[]); Converte os caracteres da string em Minusculo(no-local)
+    PCA_StringCapitalize(string[]); Deixa o primeiro caractere da string em Maiusculo, se o resto for Maiusculo transforma em Minusculo(no local)
+    
+```
+
+## Ultima atualizaçao 01/01/2026
 ### Criado por mim, todos os direitos reservados ao criador.
